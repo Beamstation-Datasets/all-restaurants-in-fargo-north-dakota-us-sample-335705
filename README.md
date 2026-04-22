@@ -1,6 +1,6 @@
 # All Restaurants in Fargo, North Dakota, US
 
-> Free BeamStation sample export with 41 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `335705` |
 | Location | Fargo |
 | Category | Restaurants |
-| Full dataset size | 418 records |
-| Free sample size | 41 records (9.81%) |
-| Last export | 2026-04-14T19:28:11.297060+00:00 |
+| Full dataset size | 152 records |
+| Free sample size | 15 records (9.87%) |
+| Last export | 2026-04-21T21:26:59.004880+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fargo-north-dakota-us-sample-335705/releases/download/sample-latest/beamstation_335705_restaurants-us-nd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
