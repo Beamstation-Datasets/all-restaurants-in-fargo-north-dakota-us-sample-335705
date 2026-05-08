@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e62adb76-e3ee-43b6-83ed-f6bebc7ef152",
+  "export_job_id": "9817b72c-9f58-4e5a-828f-6b57a8724754",
   "id_short": 335705,
-  "published_at": "2026-04-29T07:33:56Z",
+  "published_at": "2026-05-08T07:05:01Z",
   "repo_name": "all-restaurants-in-fargo-north-dakota-us-sample-335705",
   "sample_asset_name": "beamstation_335705_restaurants-us-nd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/335705/beamstation_335705_restaurants-us-nd_SAMPLE_DIST.csv",
-  "sample_records": 40,
-  "sample_sha256": "764d9395788728198f62c39371c30bff80241746ac2c7e46acfe8b3f1b3e0241",
-  "sample_size_bytes": 152175,
-  "total_records": 405
+  "sample_records": 43,
+  "sample_sha256": "6565baf7029f538c04ea12d64f11da11ae46e14f70da5384b42833ceb4ac4b04",
+  "sample_size_bytes": 159511,
+  "total_records": 437
 }
